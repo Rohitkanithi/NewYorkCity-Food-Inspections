@@ -1,1 +1,11 @@
+Deliverables: Part 1
+• Get data from downloaded files from Open Data
+• Load data into Stage table(s) (stg_)
+    - Target database: MySQL, SQL Server
+• Follow Staging Guidelines
+• Perform data profiling
 
+Stage Table
+• Add DI_CreateDate – date & time row loaded
+• Add DI_WorkflowFileName – the file name of your Alteryx workflow
+• Dates are stored as text, added a column where that text is converted to date
