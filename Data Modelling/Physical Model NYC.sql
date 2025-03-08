@@ -1,9 +1,8 @@
 /*
- * ER/Studio Data Architect SQL Code Generation
- * Project :      NYC Dimensional Model.DM1
- *
- * Date Created : Monday, February 13, 2023 22:53:51
- * Target DBMS : Microsoft SQL Server 2019
+ * ER/Studio Data Architect SQL Code
+ * Project: NYC Food Inspections
+ * File: NYC Dimensional Model.DM1
+ * DBMS : Microsoft SQL Server
  */
 
 /* 
